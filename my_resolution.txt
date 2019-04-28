@@ -2,3 +2,6 @@ Resolusi dalam latihan ini
 - Menjadikan latihan ini untuk digunakan setiap saat
 - Selalu membuat file dengan yang diharapkan
 - Menjaga hati agar tetap bersih
+- Tambahan comment untuk memastikan adanya perubahan
+- Selalu tekan tombol commit dengan menambahkan comment
+- Jangan sampai latihan tidak selesai
