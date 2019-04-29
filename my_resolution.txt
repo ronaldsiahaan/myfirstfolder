@@ -1,6 +1,9 @@
 Resolusi dalam latihan ini
 - Menjadikan latihan ini untuk digunakan setiap saat
+  *Latihan harus serius
+  *Ikuti langkah-langkah yang telah disiapkan sebelumnya
 - Selalu membuat file dengan yang diharapkan
 - Selalu tekan tombol commit dengan menambahkan comment
-- Jangan sampai latihan tidak selesai
+  *Jangan lupa selalu tekan tombol commit setelah update
+  *Pastikan semua telah selesai
 - Menghapus beberapa comment trus nambah comment ini
