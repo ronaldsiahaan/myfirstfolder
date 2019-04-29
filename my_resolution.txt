@@ -1,5 +1,7 @@
 Resolusi dalam latihan ini
 - Menjadikan latihan ini untuk digunakan setiap saat
+  *Awas...!! jangan main-main dengan github
+  *Perhatikan betul langkah-langkah yang telah dibuat
   *Latihan harus serius
   *Ikuti langkah-langkah yang telah disiapkan sebelumnya
 - Selalu membuat file dengan yang diharapkan
@@ -7,3 +9,5 @@ Resolusi dalam latihan ini
   *Jangan lupa selalu tekan tombol commit setelah update
   *Pastikan semua telah selesai
 - Menghapus beberapa comment trus nambah comment ini
+  *Hati-hati pada saat menghapus, pastikan sudah sesuai
+  *Perintah hapus adalah Delete
