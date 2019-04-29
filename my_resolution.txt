@@ -1,6 +1,10 @@
 Resolusi dalam latihan ini
 - Menjadikan latihan ini untuk digunakan setiap saat
+  *Awas...!! jangan main-main dengan github
+  *Perhatikan betul langkah-langkah yang telah dibuat
 - Selalu membuat file dengan yang diharapkan
 - Selalu tekan tombol commit dengan menambahkan comment
 - Jangan sampai latihan tidak selesai
 - Menghapus beberapa comment trus nambah comment ini
+  *Hati-hati pada saat menghapus, pastikan sudah sesuai
+  *Perintah hapus adalah Delete
