@@ -11,3 +11,5 @@ Resolusi dalam latihan ini
 - Menghapus beberapa comment trus nambah comment ini
   *Hati-hati pada saat menghapus, pastikan sudah sesuai
   *Perintah hapus adalah Delete
+  Tambahan dalam pembuatan commit
+  Jangan sampai lupa yaa
