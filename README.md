@@ -1,2 +1,0 @@
-# myfirstfolder
-Latihan membuat repo
