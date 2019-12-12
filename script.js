@@ -1,58 +1,33 @@
-// Closure
+// Template Literals or Template String
 
-// Untuk membuat Function Factories
-// Untuk membuat private method
-
-// function init() {
-//     // let nama = 'Sandhika';
-//     function tampilNama(nama) {
-//         console.log(nama);
-//     }
-//     return tampilNama;
-// }
-// let panggilNama = init();
-// panggilNama('Galih');
-
-// function init() {
-//     // let nama = 'Sandhika';
-//     return function (nama) {
-//         console.log(nama);
-//     }
-// }
-// let panggilNama = init();
-// panggilNama('Sandhika');
-// panggilNama('Galih');
+// const nama = 'Sandhika';
+// const umur = 33;
+// // console.log(`Halo, nama saya ${nama}, dan saya ${umur} tahun.`);
+// console.log('Halo, nama saya ' + nama + ', dan saya ' + umur + ' tahun.');
 
 
-// Function Factories
 
-// function ucapkanSalam(waktu) {
-//     return function (nama) {
-//         console.log(`Halo ${nama}, Selamat ${waktu}, semoga harimu menyenangkan!`);
-//     }
-// }
+//Embedded Expression
+// console.log(`${1 + 1}`);
+// console.log(`${alert('haloo!')}`);
 
-// let selamatPagi = ucapkanSalam('Pagi');
-// let selamatSiang = ucapkanSalam('Siang');
-// let selamatMalam = ucapkanSalam('Malam');
+// const x = 11;
+// console.log(`${(x % 2 == 0) ? 'genap' : 'ganjil'}`);
 
-// // selamatPagi('Sandhika');
-// // selamatSiang('Galih');
 
-// console.dir(selamatMalam('Sandhika'));
 
-let add = (function () {
-    let counter = 0;
-    return function () {
-        return ++counter;
-    }
-})(); //immadiately involved function  -> tanda kurung buka sblm function dan kurung tutup setelah kurung kurawal akhir.
+//HTML Fragments
 
-// let a = add();
-counter = 100; //tidak berpengaruh
+// const mhs = {
+//     nama: 'Sandhika Galih',
+//     umur: 33,
+//     nrp: '043040023',
+//     email: 'sandhikagalih@unpas.ac.id'
+// };
 
-console.log(add());
-console.log(add());
-console.log(add());
-console.log(add());
-console.log(add());
+// const el = `<div class="mhs">
+//     <h2>${mhs.nama}</h2>
+//     <span class="nrp">${mhs.nrp}</span>
+// </div>`;
+
+// console.log(el);
